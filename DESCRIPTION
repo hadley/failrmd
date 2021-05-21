@@ -1,0 +1,17 @@
+Package: failrmd
+Title: A package that demonstrates a failing Rmd
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Hadley",
+             family = "Wickham",
+             role = c("aut", "cre"),
+             email = "hadley@rstudio.com"),
+      person(given = "RStudio",
+             role = c("cph", "fnd")))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    rlang
