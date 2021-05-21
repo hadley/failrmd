@@ -19,3 +19,5 @@ Suggests:
     rmarkdown,
     knitr
 VignetteBuilder: knitr
+URL: https://github.com/hadley/failrmd
+BugReports: https://github.com/hadley/failrmd/issues
